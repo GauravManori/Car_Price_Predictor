@@ -13,3 +13,5 @@ It then predicts the possible price of the car.
 3. Then a Linear Regression model was built on top of it which had 0.88 R2_score.
 
 This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
+
+![image](https://user-images.githubusercontent.com/111636289/192040322-abf61946-c6ed-4cc3-9e9e-72ec81bbd992.png)
